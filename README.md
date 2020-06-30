@@ -9,3 +9,7 @@ https://gist.github.com/mkpythonanywhereblog/947633ba1bf0bc239639
 
 Selenide JavaDoc:
 https://ru.selenide.org/javadoc.html
+
+**Добавление сертификата java в cacerts**
+
+keytool -import -alias example -keystore  C:\Program Files (x86)\Java\jre1.6.0_22\lib\security\cacerts -file example.cer
