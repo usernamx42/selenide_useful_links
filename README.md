@@ -19,3 +19,6 @@ https://reqres.in/
 
 **Типы http ответов**
 https://bertal.ru/help.php?ex=1
+
+**Умные Asserts**
+http://hamcrest.org/JavaHamcrest/tutorial
