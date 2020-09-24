@@ -22,3 +22,6 @@ https://bertal.ru/help.php?ex=1
 
 **Умные Asserts**
 http://hamcrest.org/JavaHamcrest/tutorial
+
+**Allure аттачи для Rest Assured**
+https://viclovsky.github.io/%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B%20%D0%BD%D0%B0%20api/2018/05/05/allure-http-attachments/
