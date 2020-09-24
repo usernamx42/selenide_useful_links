@@ -16,3 +16,6 @@ keytool -import -alias example -keystore  C:\Program Files (x86)\Java\jre1.6.0_2
 
 **Тренажер по API тестам**
 https://reqres.in/
+
+**Типы Http ответов**
+https://bertal.ru/help.php?ex=1
