@@ -14,7 +14,7 @@ https://ru.selenide.org/javadoc.html
 
 keytool -import -alias example -keystore  C:\Program Files (x86)\Java\jre1.6.0_22\lib\security\cacerts -file example.cer
 
-/var/jenkins_home/tools/hudson.model.JDK/Java8/jre/lib/security# keytool -import -alias viled_new_cert -keystore
+/var/jenkins_home/tools/hudson.model.JDK/Java8/jre/lib/security# keytool -import -alias example -keystore
 
 /var/jenkins_home/tools/hudson.model.JDK/Java8/jre/lib/security/cacerts  -file /var/lib/{CERT}.cer 
 
